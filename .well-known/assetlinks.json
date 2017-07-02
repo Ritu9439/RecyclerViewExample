@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "eazy.recyclerviewexample",
+    "sha256_cert_fingerprints":
+    ["A5:70:EF:B8:47:A1:1E:9F:D3:2A:E6:13:AA:7C:14:42:5B:79:0F:27:10:D3:9A:BF:E0:6A:44:EC:28:B4:D5:0F"]
+  }
+}]
